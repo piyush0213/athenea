@@ -6,17 +6,6 @@
 
 **Athena** is an autonomous AI agent that helps women in dangerous situations achieve financial independence and escape safely. Built on Fraxtal L2, it combines custodial blockchain wallets, immutable IPFS evidence storage, and an empathetic AI companion that **thinks before acting**.
 
-## 🔗 Live Links
-
-| Resource | Link |
-|----------|------|
-| 🌐 **Live App** | [athenea-nine.vercel.app](https://athenea-nine.vercel.app) |
-| 🤖 **Agent Dashboard** | [IQAI ATP Dashboard](https://app.iqai.com/pending/0xee30B1d751c32CfED78826Ed6377927D7fF85892/) |
-| 🌐 **Landing Page** | [athenea-landing.vercel.app](https://athenea-landing.vercel.app) |
-| 💜 **$ATHENA Token** | [0xee30b1d751c32cfed78826ed6377927d7ff85892](https://fraxscan.com/address/0xee30b1d751c32cfed78826ed6377927d7ff85892) |
-| 🌐 **Donation Page** | [https://athenea-nine.vercel.app/donate](https://athenea-nine.vercel.app/donate) |
-| 📜 **Agent Contract** | [0xce4f65d10b16ff7ab32581d3f66d570Sac76d03b4](https://fraxscan.com/address/0xce4f65d10b16ff7ab32581d3f66d570ac76d03b4) |
----
 
 ## 🎯 The Problem
 
@@ -265,26 +254,3 @@ By combining:
 We provide women with the tools they need to escape dangerous situations **safely** and with **financial independence**.
 
 ---
-
-## 🤝 How to Help
-
-1. **Donate**: Send frxETH or USDC to victim wallets via our donation page
-2. **Share**: Spread awareness about Athena in your community
-3. **Contribute**: Help us build new features (PRs welcome!)
-4. **Hold $ATHENA**: Support the agent's mission
-
----
-
-## 📄 License
-
-MIT License
-
----
-
-<p align="center">
-  <b>"Financial freedom is the first step to true freedom."</b>
-</p>
-
-<p align="center">
-  Built with 💜 for survivors everywhere
-</p>
